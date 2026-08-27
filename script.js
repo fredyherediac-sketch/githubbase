@@ -1,13 +1,17 @@
 var texto = "tre"
 var numero = 345
-var booleano = true 
+var booleano = true
 var lista = ["dsa", "dsad"]
-var objeto = {"nombre":"alejandro" }
+var objeto = { "nombre": "alejandro" }
 
-function mifuncion(){
+function mifuncion() {
     var texto;
-    if (parametro > texto){
+    if (parametro > texto) {
         texto = true
+        for (var i = 0; i++; i > 10) {
+            var texto = i
+        }
+
     } else {
         texto = false
     }
